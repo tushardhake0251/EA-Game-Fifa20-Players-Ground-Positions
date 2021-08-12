@@ -4,7 +4,7 @@ publishes sports video games. Formerly a marketing gimmick
 of Electronic Arts, in which they tried to imitate real-life sports
 networks by calling themselves the "EA Sports Network"
 (EASN)
-![image](https://user-images.githubusercontent.com/76862211/129168864-5fb3061d-5280-4b5a-8418-25182a150399.png)
+
 
 
 
@@ -16,7 +16,7 @@ Starting from FIFA 20, EA Sports has given the option to gamers to create their 
 customization section of FIFA 20, you’re able to fully design your own player. You can choose what clothes your player wears, but the tabs at the top also allow you to customize
 their name, sex, race, and appearance.
 
-
+![image](https://user-images.githubusercontent.com/76862211/129168864-5fb3061d-5280-4b5a-8418-25182a150399.png)
 
 
 # Introduction
